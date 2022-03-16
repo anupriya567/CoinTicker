@@ -1,16 +1,5 @@
 # coin_ticker
 
-A new Flutter project.
+Simple App that fetches the value of cryptos in different currencies..
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![coin_ticker – price_screen dart  coin_ticker  15-03-2022 19_08_20](https://user-images.githubusercontent.com/72871727/158684864-393e7758-f828-4c24-a338-9263381cb4fc.png)
